@@ -1,0 +1,36 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  background-color: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display';
+  font-weight: 900;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Merriweather';
+  padding-left: 30px;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  font-family: 'Merriweather';
+}
+.rules {
+  background-color: white;
+}
+
+.rps-images {
+  margin-left: 45px;
+}
+
+.rps-images img {
+  padding: 30px;
+}
